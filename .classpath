@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="libs/jedis-2.9.0.jar" sourcepath="E:/DevWork/Repo/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar"/>
+	<classpathentry kind="lib" path="libs/commons-pool2-2.4.2.jar"/>
+	<classpathentry kind="lib" path="libs/json-20160810.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
